@@ -46,7 +46,8 @@ public class LoginPageTest extends BaseTest {
 	 }
 	
 	
-	@Test(priority=4)
+	@Test(priority=5)
+	
 	 public void loginTest()
 	 
 	 {
